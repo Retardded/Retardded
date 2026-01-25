@@ -1,13 +1,11 @@
 <h1 align="center">Wsup 👋, I'm Nikita</h1>
 <h3 align="center">A Middle Full-Stack Web Developer | Middle C# Developer</h3>
 
-- 🔭 I’m currently working on [FiveCorner](https://fivecorner.shop/)
+- 🌱 I’m currently learning **Java**, **Vue**
 
-- 🌱 I’m currently learning **Java**
+- 💬 Ask me about **react, html, css, c#, js, php, ts**
 
-- 💬 Ask me about **react, html, css, c#, js, php**
-
-- 📫 How to reach me **telegram: @lineless_solutions / email: nikitaoleynichenko@icloud.com**
+- 📫 How to reach me **telegram: @oleynichenko_nikita / email: nikitaoleynichenko@icloud.com**
 
 - ⚡ Fun fact **I developed an interest in the IT field when I was 10 years old.**
 
