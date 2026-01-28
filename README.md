@@ -1,5 +1,5 @@
 <h1 align="center">Wsup 👋, I'm Nikita</h1>
-<h3 align="center">A Middle Full-Stack Web Developer | Middle C# Developer</h3>
+<h3 align="center">A Full-Stack Web Developer | Junior C# Developer</h3>
 
 - 🌱 I’m currently learning **Java**, **Vue**
 
