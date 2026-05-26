@@ -1,9 +1,7 @@
 <h1 align="center">Wsup 👋, I'm Nikita</h1>
-<h3 align="center">A Full-Stack Web Developer | Junior C# Developer</h3>
+<h3 align="center">A Middle Full-Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **Java**, **Vue**
-
-- 💬 Ask me about **react, html, css, c#, js, php, ts**
+- 💬 Ask me about **react, html, css, c#, js, ts, vue, vite**
 
 - 📫 How to reach me **telegram: @oleynichenko_nikita / email: nikitaoleynichenko@icloud.com**
 
