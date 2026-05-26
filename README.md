@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **react, html, css, c#, js, ts, vue, vite, python**
 
-- 📫 How to reach me **telegram: @oleynichenko_nikita / email: nikitaoleynichenko@icloud.com**
+- 📫 How to reach me **telegram: @cvrzd / email: nikitaoleynichenko@icloud.com**
 
 - ⚡ Fun fact **I developed an interest in the IT field when I was 6 years old.**
 
