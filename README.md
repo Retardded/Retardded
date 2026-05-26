@@ -1,11 +1,11 @@
 <h1 align="center">Wsup 👋, I'm Nikita</h1>
 <h3 align="center">A Middle Full-Stack Web Developer</h3>
 
-- 💬 Ask me about **react, html, css, c#, js, ts, vue, vite**
+- 💬 Ask me about **react, html, css, c#, js, ts, vue, vite, python**
 
 - 📫 How to reach me **telegram: @oleynichenko_nikita / email: nikitaoleynichenko@icloud.com**
 
-- ⚡ Fun fact **I developed an interest in the IT field when I was 10 years old.**
+- ⚡ Fun fact **I developed an interest in the IT field when I was 6 years old.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
