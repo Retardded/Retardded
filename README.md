@@ -1,12 +1,14 @@
 # Nikita Oleynichenko
 
-Full-Stack Developer focused on building and shipping real products.
+Full-Stack Developer focused on building, shipping, and maintaining real products.
 
-Currently leading the technical development of **rezume.org.ua** — a production resume-building platform with growing organic traffic. I own the technical side of the product: architecture, frontend, backend, infrastructure, deployment, and production reliability.
+Currently leading the technical development of **[rezume.org.ua](https://rezume.org.ua)** — a production resume-building platform with growing organic traffic.
 
-The product itself is closed-source, but I'm happy to discuss its architecture and technical decisions during an interview.
+I own the technical side of the product: architecture, frontend, backend, infrastructure, deployment, performance, and production reliability. I work alongside marketing and SEO, translating product and business requirements into technical solutions and taking them from idea to production.
 
-## What I work with
+The product is closed-source, but I'm happy to discuss its architecture, engineering challenges, and technical decisions during an interview.
+
+## Tech Stack
 
 **Frontend**
 - React
@@ -18,12 +20,19 @@ The product itself is closed-source, but I'm happy to discuss its architecture a
 - Node.js
 - Python
 - PostgreSQL
+- REST APIs
 - Linux / VPS
 - Docker
-- REST APIs
 - Chromium / Puppeteer
 
-**AI-assisted development**
+**Development**
+- Git
+- CI/CD
+- Testing & debugging
+- Performance optimization
+- Production troubleshooting
+
+**AI-assisted Development**
 - Codex
 - Claude Code
 - Cursor
@@ -32,34 +41,54 @@ The product itself is closed-source, but I'm happy to discuss its architecture a
 - LLM APIs
 - Local models / Ollama
 
-## Currently building
+## What I'm Building
 
-### rezume.org.ua
+### [rezume.org.ua](https://rezume.org.ua)
 
-Production full-stack product for creating and exporting resumes.
+A production full-stack product for creating, managing, and exporting resumes.
 
-I am responsible for the technical direction and implementation of the product, working together with marketing and SEO on product development.
-
-Some of the engineering work includes:
+I am responsible for its technical direction and implementation, including:
 
 - frontend and backend architecture
 - React-based product UI
-- API integrations
+- API design and integrations
+- AI-powered features and LLM integrations
 - server-side document rendering with Chromium / Puppeteer
-- AI-powered features
 - remote rendering infrastructure
 - deployment and production debugging
-- performance and technical SEO
+- performance optimization
+- technical SEO
 
-Repository is private.
+The product is actively developed together with marketing and SEO, so my role goes beyond implementing predefined tickets — I participate in turning product requirements and real user needs into technical solutions.
 
-## How I work
+**Repository:** Private  
+**Live product:** [rezume.org.ua](https://rezume.org.ua)
 
-I prefer owning problems rather than individual tickets: understand the problem, evaluate constraints, design a solution, implement it, test it, ship it, and observe how it behaves in production.
+## How I Work
 
-AI coding agents are part of my daily development workflow. I regularly use multiple agent sessions for independent tasks while keeping control over Git changes, tests, architecture, and the final implementation.
+I prefer owning problems rather than individual tickets.
+
+My usual workflow is to understand the problem and its constraints, evaluate possible approaches, design a solution, implement it, test it, ship it, and verify how it behaves in production.
+
+AI coding agents are part of my daily engineering workflow. I use tools such as Codex and Claude Code for implementation, research, debugging, refactoring, and codebase analysis.
+
+For larger tasks, I regularly work with multiple agent sessions in parallel, separating independent areas of work while keeping control over context, Git changes, tests, architecture, and the final implementation.
+
+I treat AI-generated code the same way as any other code: it has to be understood, reviewed, tested, and fit the architecture before it reaches production.
+
+## Interests
+
+- Product engineering
+- Full-stack development
+- AI agents & developer tooling
+- Backend & infrastructure
+- Linux
+- Performance & reliability
+- DevOps
 
 ## Contact
 
-- GitHub: @Retardded
-- Product: rezume.org.ua
+- **Product:** [rezume.org.ua](https://rezume.org.ua)
+- **GitHub:** [@Retardded](https://github.com/Retardded)
+- **Email:** nikitaoleynichenko@icloud.com
+- **Telegram:** [@oleynichenko_nikita](https://t.me/oleynichenko_nikita)
