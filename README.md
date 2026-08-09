@@ -1,17 +1,65 @@
-<h1 align="center">Wsup 👋, I'm Nikita</h1>
-<h3 align="center">A Middle Full-Stack Web Developer</h3>
+# Nikita Oleynichenko
 
-- 💬 Ask me about **react, html, css, c#, js, ts, vue, vite, python**
+Full-Stack Developer focused on building and shipping real products.
 
-- 📫 How to reach me **telegram: @cvrzd / email: nikitaoleynichenko@icloud.com**
+Currently leading the technical development of **rezume.org.ua** — a production resume-building platform with growing organic traffic. I own the technical side of the product: architecture, frontend, backend, infrastructure, deployment, and production reliability.
 
-- ⚡ Fun fact **I developed an interest in the IT field when I was 6 years old.**
+The product itself is closed-source, but I'm happy to discuss its architecture and technical decisions during an interview.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/kindaboredofexisting" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cvrzdqq" height="30" width="40" /></a>
-</p>
+## What I work with
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+**Frontend**
+- React
+- TypeScript / JavaScript
+- Vite
+- HTML / CSS
 
+**Backend & Infrastructure**
+- Node.js
+- Python
+- PostgreSQL
+- Linux / VPS
+- Docker
+- REST APIs
+- Chromium / Puppeteer
+
+**AI-assisted development**
+- Codex
+- Claude Code
+- Cursor
+- OpenCode
+- Antigravity
+- LLM APIs
+- Local models / Ollama
+
+## Currently building
+
+### rezume.org.ua
+
+Production full-stack product for creating and exporting resumes.
+
+I am responsible for the technical direction and implementation of the product, working together with marketing and SEO on product development.
+
+Some of the engineering work includes:
+
+- frontend and backend architecture
+- React-based product UI
+- API integrations
+- server-side document rendering with Chromium / Puppeteer
+- AI-powered features
+- remote rendering infrastructure
+- deployment and production debugging
+- performance and technical SEO
+
+Repository is private.
+
+## How I work
+
+I prefer owning problems rather than individual tickets: understand the problem, evaluate constraints, design a solution, implement it, test it, ship it, and observe how it behaves in production.
+
+AI coding agents are part of my daily development workflow. I regularly use multiple agent sessions for independent tasks while keeping control over Git changes, tests, architecture, and the final implementation.
+
+## Contact
+
+- GitHub: @Retardded
+- Product: rezume.org.ua
